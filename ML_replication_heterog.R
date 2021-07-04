@@ -13,7 +13,7 @@
 # What do emissions markets deliver and to whom? Evidence 
 # from Southern California's NOx trading program. American Economic Review, 102(2), 965-93.
 
-setwd("")
+#setwd("")
 
 #### Set up ####
 # Packages
